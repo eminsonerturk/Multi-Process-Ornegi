@@ -1,3 +1,3 @@
 # Multi-Process-Ornegi
 
-Burada işlemci threatlerini belirli bir sıraya koyuarak bir sayının azaltılıp, arttırılması işlemi yapılmıştır.
+Burada işlemci threatleri belirli bir sıraya koyularak bir sayının azaltılıp, arttırılması işlemi yapılmıştır.
